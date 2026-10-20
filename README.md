@@ -20,6 +20,7 @@ Understanding student behavior and early engagement indicators is crucial for id
 The analysis utilizes a custom subset of the Open University Learning Analytics Dataset:
 * **`CB_OUALD_train.csv`**: Training dataset containing **18,802 instances**.
 * **`CB_OUALD_test.csv`**: Evaluation dataset for model verification.
+Full dataset can be checked [here](https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad)
 
 ### Key Feature Categories
 * **Demographics & Background:** `gender`, `region`, `highest_education`, `imd_band`, `age_band`, `disability`, `studied_credits`, `num_of_prev_attempts`.
@@ -59,7 +60,7 @@ Data Ingestion ➔ Exploratory Data Analysis ➔ Feature Engineering & Preproces
 
 ## 🚀 How to Run
 
-1. **Just upload the file in Google Colab and run it!**
+**Just upload the ipynb file and train + test datasets in Google Colab and run the code!**
 ---
 
 ## 📈 Summary of Visualizations
